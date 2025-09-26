@@ -1,10 +1,19 @@
-# Hey✌️ I'm Yann 
+# Hey ✌️ I'm Yann  
 
-I am a software developer and bootcamp manager at [Le Wagon Tokyo](https://www.lewagon.com/tokyo). 
+**Software Developer** · **Bootcamp Manager**
 
-I'm a [maker](https://www.yannklein.dev/) by essence and I love to develop applications and push the limits of fields like VR, AR or recently AI (I guess it's not the right place to talk about my [leathercraft addiction](https://medium.com/@yann.and.the.machines/yann-and-the-machines-50540e9ec088)? 🙄). 
+---
 
-I'm also a people person, [changing the life of our coding bootcamp students](https://www.lewagon.com/blog/meet-our-team-yann) is the reason why I wake up every morning ❤️. 
+🌱 I'm a [maker](https://www.yannklein.dev/) at heart, passionate about building applications and exploring the edges of technology—VR, AR, and lately AI.  
+*(And yes, I may or may not have a [leathercraft addiction](https://medium.com/@yann.and.the.machines/yann-and-the-machines-50540e9ec088) 🙄)*  
 
-Wanna know more? Let's [grab a coffee](https://www.linkedin.com/in/yann-klein/) in Tokyo ☕️ or on Zoom 🎥 !
+👥 I'm also a people person: [changing the lives of coding bootcamp students](https://www.lewagon.com/blog/meet-our-team-yann) is what gets me out of bed every morning ❤️.  
 
+☕ Wanna know more? Let’s [grab a coffee](https://www.linkedin.com/in/yann-klein/) in Tokyo—or jump on Zoom 🎥.  
+
+---
+
+### Contributions across platforms  
+These days I share my commits between [GitHub](https://github.com/yannklein) and [GitLab](https://gitlab.com/yannklein):  
+
+![Multi-platform contributions](https://raw.githubusercontent.com/yannklein/multi-platform-contrib-counter/refs/heads/main/public/contrib.svg)
