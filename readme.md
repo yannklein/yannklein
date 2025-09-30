@@ -13,7 +13,7 @@
 
 ---
 
-### Contributions across platforms  
+#### Contributions across platforms  
 These days I share my commits between [GitHub](https://github.com/yannklein) and [GitLab](https://gitlab.com/yannklein):  
 
 <p align="center">
