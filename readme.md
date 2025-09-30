@@ -1,6 +1,5 @@
 # Hey ✌️ I'm Yann  
-
-<strong weight="bold" style="text-align: center">
+<strong weight="bold" style="text-align: center; display: block; margin-bottm: 16px">
   Software Developer · Bootcamp Manager
 </strong>
 
