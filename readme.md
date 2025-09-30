@@ -1,8 +1,9 @@
 # Hey ✌️ I'm Yann  
 
-<p style="text-align: center">
-**Software Developer** · **Bootcamp Manager**
-</p>
+<strong weight="bold" style="text-align: center">
+  Software Developer · Bootcamp Manager
+</strong>
+
 ---
 
 I'm a [maker](https://www.yannklein.dev/) at heart, passionate about building applications and exploring the edges of technology, VR, AR, and lately AI.  
