@@ -9,7 +9,7 @@ I'm a [maker](https://www.yannklein.dev/) at heart, passionate about building ap
 
 I'm also a people person: [changing the lives of coding bootcamp students](https://www.lewagon.com/blog/meet-our-team-yann) is what gets me out of bed every morning ❤️.  
 
-Wanna know more? Let’s [grab a coffee](https://www.linkedin.com/in/yann-klein/) ☕ or jump on Zoom 🎥.  
+Wanna know more? Let’s [grab a coffee](https://www.linkedin.com/in/yann-klein/) ☕ or [jump on Zoom](https://cal.com/yannklein) 🎥.  
 
 ---
 
