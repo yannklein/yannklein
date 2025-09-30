@@ -16,4 +16,6 @@
 ### Contributions across platforms  
 These days I share my commits between [GitHub](https://github.com/yannklein) and [GitLab](https://gitlab.com/yannklein):  
 
-![Multi-platform contributions](https://raw.githubusercontent.com/yannklein/multi-platform-contrib-counter/refs/heads/main/public/contrib.svg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/yannklein/multi-platform-contrib-counter/refs/heads/main/public/contrib.svg" width="100%">
+</p>
