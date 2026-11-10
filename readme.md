@@ -18,5 +18,5 @@ Wanna know more? Let’s <a href="https://www.linkedin.com/in/yann-klein/" targe
 These days I share my commits between <a href="https://github.com/yannklein" target="_blank" rel="noopener noreferrer">GitHub</a> and <a href="https://gitlab.com/yannklein" target="_blank" rel="noopener noreferrer">GitLab</a>:  
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/yannklein/multi-platform-contrib-counter/refs/heads/main/public/contrib.svg" width="100%">
+  <img src="https://contrib.yannklein.dev/contrib.svg" width="100%">
 </p>
